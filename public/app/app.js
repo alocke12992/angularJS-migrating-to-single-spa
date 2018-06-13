@@ -1,5 +1,4 @@
 'use strict';
-
 //var app = angular.module('AngularDrumMachine', ['ngRoute']);
 var app = angular.module('AngularDrumMachine', []);
 
