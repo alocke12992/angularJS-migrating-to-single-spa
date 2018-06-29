@@ -1,4 +1,4 @@
-var drumMachineApp = window.singleSpaAngular1.default({
+var drumMachineApp = window.singleSpaAngularjs.default({
   angular: window.angular,
   domElementGetter: function () {
     return document.getElementById('drum-machine')
